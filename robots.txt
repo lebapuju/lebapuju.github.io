@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://lebapuju.github.io/sitemap/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/EFA/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/lwi/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/sgR/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/gLq/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/muC/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/iZj/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/ZBD/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/Uqf/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/KPy/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/hbH/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/RoC/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/QfZ/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/uvw/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/OvN/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/CgO/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/DpB/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/QeR/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/emy/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/oIe/sitemap_index.lebapuju
+Sitemap: https://lebapuju.github.io/sxf/sitemap_index.lebapuju
